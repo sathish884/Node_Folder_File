@@ -1,9 +1,9 @@
 # Node_Folder_File
 
-Create the folder and files using api post method
-
-Get all .txt files inside the the folder using api get method
+Creating the folder and files and Get all .txt files inside the the folder
 
 Packages used   =>  express, fs-extra
 
-Methods used   =>  POST,   GET
+Methods used    =>  POST,   GET
+
+Deployed url    =>  https://node-folder-file.onrender.com
